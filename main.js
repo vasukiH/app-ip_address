@@ -83,4 +83,4 @@ class IpAddress {
   return callback(firstIpAddress,mappedAddress, callbackError);
 }
 }
-module.exports = new IpAddress;
+module.exports = new IpAddress;ipv4MappedIpv6Address
